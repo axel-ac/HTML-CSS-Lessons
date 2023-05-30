@@ -2,7 +2,7 @@
 <table class="table">
   <thead>
     <tr>
-      <th align="left">HTML-CSS-Lessonssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</th>
+      <th align="left">HTML-CSS-Lessons</th>
       <th align="left">Repo Link</th>
     </tr>
   </thead>
