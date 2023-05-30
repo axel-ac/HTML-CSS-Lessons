@@ -1,8 +1,8 @@
 # HTML-CSS-Lessons
 <table class="table">
-  <thead width="100%">
+  <thead>
     <tr>
-      <th align="left">HTML-CSS-Lessons</th>
+      <th align="left">HTML-CSS-Lessonssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</th>
       <th align="left">Repo Link</th>
     </tr>
   </thead>
