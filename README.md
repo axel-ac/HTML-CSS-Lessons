@@ -1,6 +1,6 @@
 # HTML-CSS-Lessons
-<table class="table" width="100%">
-  <thead>
+<table class="table">
+  <thead width="100%">
     <tr>
       <th align="left">HTML-CSS-Lessons</th>
       <th align="left">Repo Link</th>
